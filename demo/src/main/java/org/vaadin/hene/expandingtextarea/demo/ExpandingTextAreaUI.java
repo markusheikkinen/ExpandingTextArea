@@ -2,7 +2,7 @@ package org.vaadin.hene.expandingtextarea.demo;
 
 import com.vaadin.annotations.PreserveOnRefresh;
 import com.vaadin.annotations.Theme;
-import com.vaadin.data.Property;
+import com.vaadin.v7.data.Property;
 import com.vaadin.ui.*;
 import com.vaadin.ui.themes.ValoTheme;
 import org.vaadin.hene.expandingtextarea.ExpandingTextArea;

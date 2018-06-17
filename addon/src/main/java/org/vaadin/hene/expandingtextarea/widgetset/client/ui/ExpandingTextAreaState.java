@@ -1,6 +1,6 @@
 package org.vaadin.hene.expandingtextarea.widgetset.client.ui;
 
-import com.vaadin.shared.ui.textarea.TextAreaState;
+import com.vaadin.v7.shared.ui.textarea.TextAreaState;
 
 /**
  * @author Henri Kerola / Vaadin

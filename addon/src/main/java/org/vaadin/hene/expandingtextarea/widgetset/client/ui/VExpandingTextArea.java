@@ -6,7 +6,7 @@ import java.util.List;
 import com.google.gwt.user.client.Element;
 import com.google.gwt.user.client.Event;
 import com.google.gwt.user.client.Timer;
-import com.vaadin.client.ui.VTextArea;
+import com.vaadin.v7.client.ui.VTextArea;
 
 /**
  * Client side widget which communicates with the server. Messages from the

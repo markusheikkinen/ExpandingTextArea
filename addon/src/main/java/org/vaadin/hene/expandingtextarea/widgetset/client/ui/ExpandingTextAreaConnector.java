@@ -10,8 +10,8 @@ import com.google.gwt.core.client.Scheduler.ScheduledCommand;
 import com.vaadin.client.ApplicationConnection;
 import com.vaadin.client.UIDL;
 import com.vaadin.client.communication.RpcProxy;
-import com.vaadin.client.ui.VTextArea;
-import com.vaadin.client.ui.textarea.TextAreaConnector;
+import com.vaadin.v7.client.ui.VTextArea;
+import com.vaadin.v7.client.ui.textarea.TextAreaConnector;
 import com.vaadin.shared.ui.Connect;
 
 @Connect(ExpandingTextArea.class)

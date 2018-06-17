@@ -5,10 +5,10 @@ import java.lang.reflect.Method;
 
 import org.vaadin.hene.expandingtextarea.widgetset.client.ui.ExpandingTextAreaServerRpc;
 
-import com.vaadin.data.Property;
+import com.vaadin.v7.data.Property;
 import com.vaadin.server.PaintException;
 import com.vaadin.server.PaintTarget;
-import com.vaadin.ui.TextArea;
+import com.vaadin.v7.ui.TextArea;
 import com.vaadin.util.ReflectTools;
 import org.vaadin.hene.expandingtextarea.widgetset.client.ui.ExpandingTextAreaState;
 
